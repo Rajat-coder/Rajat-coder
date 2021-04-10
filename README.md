@@ -2,6 +2,8 @@
 <h3 align="center">A self-taught programmer</h3>
 - 🌱 I’m currently learning Python and Django
 
+
+
 👔[linekdin](https://www.linkedin.com/in/rajat-handa-b6600a1b6/) | 📧 [mail](mailto:handarajat111@gmail.com)
 
 ### Spotify Playing 🎧
