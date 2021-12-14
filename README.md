@@ -1,6 +1,6 @@
 <h1 align="center">Hola, I'm Rajat Handa 👋</h1>
 <h3 align="center">A self-taught programmer</h3>
-- Python/Django developer 
+- Python/Django Developer 
 
 
 
