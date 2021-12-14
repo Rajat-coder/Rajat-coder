@@ -6,9 +6,6 @@
 
 👔[linekdin](https://www.linkedin.com/in/rajat-handa-b6600a1b6/) | 📧 [mail](mailto:handarajat111@gmail.com)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SONG #1" width="350" />](https://open.spotify.com/user/31hvoq2reu6rv6qrf5ni2a2pq2hu)
 
 ---
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-coder&theme=dark" /></br>
